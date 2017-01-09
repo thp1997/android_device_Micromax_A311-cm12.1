@@ -117,6 +117,10 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 PRODUCT_PACKAGES += \
     Torch
 
+# Prebuilt libmtkplayer
+PRODUCT_PACKAGES += \
+    libmtkplayer	
+	
 # Camera
 PRODUCT_PACKAGES += \
     Snap
