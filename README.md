@@ -10,6 +10,7 @@
   * Camera (photo and video recording)
   * GPS
   * HD Gaming
+  * FMRadio
   * Tethering (Wifi, Bluetooth and USB)
 
 * Not Working  
