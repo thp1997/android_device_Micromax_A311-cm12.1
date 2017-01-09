@@ -119,7 +119,17 @@ PRODUCT_PACKAGES += \
 
 # Prebuilt libmtkplayer
 PRODUCT_PACKAGES += \
-    libmtkplayer	
+    libmtkplayer
+
+# FMRadio
+PRODUCT_PACKAGES += \
+    FMRadio \
+    libfmcust \
+    libfmjni \
+    libfmmt6620 \
+    libfmmt6627 \
+    libfmmt6628 \
+    libfmmt6630	
 	
 # Camera
 PRODUCT_PACKAGES += \
