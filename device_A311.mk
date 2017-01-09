@@ -137,6 +137,6 @@ PRODUCT_NAME := full_A311
 PRODUCT_DEVICE := A311
 
 TARGET_SCREEN_HEIGHT := 1280			
-TARGET_SCREEN_WIDTH := 1720
+TARGET_SCREEN_WIDTH := 720
 
 $(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
